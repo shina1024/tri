@@ -1,4 +1,5 @@
 # tri
+[![Go](https://github.com/shina1024/tri/actions/workflows/go.yml/badge.svg)](https://github.com/shina1024/tri/actions/workflows/go.yml)
 
 **Ternary operator-like functions in Go**
 
